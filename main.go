@@ -21,7 +21,6 @@ var songs []Song
 
 func init() {
 	readDataSet()
-
 }
 
 func main() {
