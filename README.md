@@ -1,4 +1,4 @@
-# goSongsAPI
+# Go Songs API
 Api em Golang das Top 50 do Spotify em 2019
 
 ## Comandos
