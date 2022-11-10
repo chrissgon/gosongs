@@ -4,7 +4,7 @@ Api em Golang das Top 50 do Spotify em 2019
 ## Comandos
 - Clona o repositório.
 ``` bash
-git clone git@github.com:chrissgon/goSongsAPI.git
+git clone git@github.com:chrissgon/gosongs.git
 ```
 - Executa aplicação.
 ``` bash
